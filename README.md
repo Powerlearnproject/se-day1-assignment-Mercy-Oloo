@@ -46,6 +46,11 @@ acceptance-formal test that verifies if a system satisfies business requirement.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Is the process of writing instructions that guide AI models to produce specific responses.It is important in AI models by helping reduce errors and create more reliable AI applications,it also improves quality control over AI generated results.It enhances user AI interactions so that it understands the user intention even with minimal input.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt
+"create a report about AI on climate change"
+improved prompt
+"write a 1000 word essay report on the impact of artificial intelligence on climate change,focusing on its benefits,innivations,challenges,application and ethical considerations,include real life examples
+The above is more effective because its more specific,shows clear scope,concise and provides source expectations.
